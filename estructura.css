@@ -1,0 +1,132 @@
+img {
+    height: 150px;
+    width: 150px;
+    float: left;
+    margin-left: 40px;
+    margin-top: 5px;
+}
+
+.foto {
+    height: 150px;
+    width: 150px;
+    float: right;
+    padding: auto;
+    margin-left: 1em;
+}
+
+.boton {
+    font-size: 12px;
+    background-color: black;
+    color: white;
+}
+
+#menu {
+    margin-left: 95px;
+    background-color: black;
+    width: 84%;
+}
+
+a {
+    color: white;
+    padding: 5px;
+    font-size: 15px;
+}
+
+.box {
+    display: flex;
+    height: 160px;
+    width: 93.5%;
+    flex-direction: row;
+    background-color: darkorange;
+    margin-left: 35px;
+    margin-right: 5px;
+}
+
+.nombre {
+    text-align: center;
+    width: 30%;
+    float: right;
+    margin-left: 75px;
+    padding-top: 20px;
+}
+
+figure {
+    display: inline;
+    float: right;
+    margin-top: 1.5px;
+    padding-left: 300px;
+
+    
+    }
+
+.seccion1 {
+    float: left;
+    background-color: green;
+    width: 45%;
+    height: 870px;
+    margin-left: 35px;
+}
+
+.aside {
+    float: right;
+    background-color: green;
+    width: 45%;
+    height: 870px;
+    margin-right: 45px;
+}
+
+.articulo1 {
+    background-color: darkgoldenrod;
+    width: 75%;
+    height: 845px;
+    text-align: left;
+    margin: auto;
+    font-family: "Times New Roman", Times, serif;
+}
+
+
+
+.info {
+    text-align: left;
+}
+
+.info2 {
+    text-align: left;
+}
+
+.copy {
+    background-color: black;
+    width: 79.50%;
+    height: 195px;
+    display: inline;
+    margin-left: 35px;
+    font-size: 15px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: white;
+    float: left;
+    margin-left: 35px;
+}
+
+#inicio {
+    float: right;
+    background-color: black;
+    height: 27px;
+}
+
+#barras {
+    width: 14%;
+    height:150px ;
+    background-color: white;
+    display: inline;
+    float: right;
+    margin-right: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.quantico {
+    font-family: Quantico;
+    font-size: 14px;
+}
+
